@@ -1,0 +1,16 @@
+untuk mengatasi imbalance:
+- menghindari drop karena rugi dataset tidak dipakai
+- data yang "y" hanya 12% / 1/8 dr total, dicoba diduplikat sebanyak 5x
+  (6x sdh dicoba kebanyakan)
+
+
+utk previous dicategorykan
+0 -> 1
+1 -> 2
+2 -> 3
+3 -> ...
+base dibuat 1, karena base 0 modelnya lebih jelek (sdh trial)
+
+target accuracy di angka 92%, lebih achievable
+
+target tambahan kecilkan false positive dan false negative
