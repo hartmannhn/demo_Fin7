@@ -1,0 +1,29 @@
+note meeting 2022/07/12:
+
+1. business implication : reduces marketing cost by X% --> disampaikan saat video presentasi, atau
+draft kalimat mas Junio utk business implication: 
+"1x call itu cost sekian, dikalikan 4521x call utk semua potensial customer"
+"dengan dibantu prediksi model ini, kita bisa save uang sekian dengan sekian kali call untuk dapat sekian customer yang ya"
+
+2. u/ proposal scope deliverables:
+tambahkan:
+cakupan target harian / mingguan:
+- sdh explore data saat tgl sekian
+- sdh punya model tgl sekian
+
+plan kerja:
+
+12 - 19 Juli - lanjut coding, disarankan lgsg submit via branch github dgn nama masing2
+
+~16 Juli - revisi proposal sesuai poin meeting diatas
+
+16 Juli  - submit proposal
+
+next meeting:
+
+19 Juli - finalisasi model, script video sdh siap 
+(apa perlu ppt utk alat bantu nanti saat rekaman? atau cukup pakai google colab?)
+
+23 - 26 Juli - rekaman video zoom, durasi 10 menit, pakai zoom-bg disediakan tim DTS
+
+27 Juli - submit video
