@@ -1,0 +1,46 @@
+[Hartmann][alokasi waktu : 2 menit]
+1. perkenalan nama tiap anggota (dilakukan masing2)
+   yg disebutkan : nama - asal kelas
+
+2. bagaimana pembagian tugas dilakukan?
+   - tiap anggota inisiatif memulai satu bagian, setiap bagian tersebut lalu didiskusikan dan disetujui dahulu bersama sebelum lanjut ke tahap berikutnya
+   - untuk model, setiap anggota membuat model, lalu dipilih model terbaik yg dimiliki sampai pada tanggal 19 Juli 2022
+
+3. penjelasan dataset
+   - insight kunci dari EDA
+   - cth : kenapa yg umur diubah menjadi categorical -> one hot
+   - ada data numerical dan categorical -> mana yg discalar saja mana yg di one-hot
+   - imbalance di variable y : berapa banding berapa
+
+[Yanuar][alokasi waktu : 4 menit]
+4. apa yg dikerjakan?
+   - standard scaling, one-hot-encoding untuk preparation data
+   - standard scaling krn ada outlier atas dan outlier bawah, sekaligus mengatasi nilai negatif dalam data
+   - mengatasi imbalance data
+   - penjelasan arsitektur model
+     - kenapa hidden layer activation relu :
+     - activation kenapa softmax :
+   - model di run dengan epoch 100 batch size sekian
+
+5. apa hasilnya?
+   - model dengan accuracy sekian?
+   - tampilkan confusion matrix dan acceptance criteria
+
+[Junio][alokasi waktu : 4 menit]
+6. apa hasil penelitian dan komparasi?
+   - business implication : sdh ada draft kalimat dari mas Junio (di ppt mas Junio)
+
+   - komparasi model menggunakan oversampling dengan model tanpa oversampling
+     -> yg ditunjukkan confusion matrix dari kedua model
+   - komparasi hasil menggunakan neural network dengan algoritma decision tree dan logistic regression
+
+
+7. penutup
+
+sdh ada draft PPT presentasi dibuatkan mas Junio di Google Slides
+ -> buat ppt sendiri2 melanjutkan dari file mas Junio, link di discord
+pakai ppt asli dari DTS jgn ubah font dan background biar seragam
+hari minggu dicombine
+
+meeting berikutnya : hari minggu 24 Juli 2022 - jam 19.00 WIB
+agenda - rekaman
