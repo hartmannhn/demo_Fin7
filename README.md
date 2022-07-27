@@ -1,6 +1,9 @@
 # MLT2_demo_FIN_7
   
 Dataset : Fintech/Banking  
+
+Video presentation:
+https://youtu.be/bGXmmJTqsKo
   
 Team Members  
 | Name        | Reg Number           | Class  |
